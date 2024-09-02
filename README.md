@@ -16,7 +16,7 @@ This app combines news sentiment analysis and stock trading to make news more ac
 * Flask
 * Pandas
 * Matplotlib
-* Nltk
+* NLTK
 * BeautifulSoup
 * Plotly
 * NumPy
